@@ -1,1 +1,3 @@
-git add --all && git commit -m "ZoV" && git push --all
+git add --all
+git commit -m "ZoV"
+git push --all
